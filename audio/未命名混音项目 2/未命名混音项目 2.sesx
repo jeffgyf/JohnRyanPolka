@@ -94,7 +94,7 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[KAMAAAAAAAAAAAAAAAAAAAAAAwUAAAADAAAAAU5TSFNzZXRBAAAC5VhQc3Q8UHJlc2V0Q2h1bmtYTUxUcmVlIHZlcnNpb249IjIiPgogICAgPFByZXNldCBOYW1lPSIiIEdlbmVyaWNUeXBlPSJTSFVGIj4KICAgICAgICA8UHJlc2V0SGVhZGVyPgogICAgICAgICAgICA8UGx1Z2luTmFtZT5TMSBJbWFnZXI8L1BsdWdpbk5hbWU+CiAgICAgICAgICAgIDxQbHVnaW5TdWJDb21wPk5TSFM8L1BsdWdpblN1YkNvbXA+CiAgICAgICAgICAgIDxQbHVnaW5WZXJzaW9uPjEwLjAuMC4xNjwvUGx1Z2luVmVyc2lvbj4KICAgICAgICAgICAgPEFjdGl2ZVNldHVwPlNFVFVQX0E8L0FjdGl2ZVNldHVwPgogICAgICAgICAgICA8UmVhZE9ubHk+dHJ1ZTwvUmVhZE9ubHk+CiAgICAgICAgPC9QcmVzZXRIZWFkZXI+CiAgICAgICAgPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0EiPgogICAgICAgICAgICA8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPi0xLjE5OTk5OTk5OTk5OTk5OTk1NTYgMC44NTk5OTk5OTk5OTk5OTk5ODY2OCAxIDY1MCAtMjcuNSAtNTUgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgoQCL+APEJ5cGFzcyBWZXJzaW9uPSIxLjAiIEJ5cGFzcz0iMCIvPgo=]]></presetChunkData>
+              <presetChunkData><![CDATA[KAMAAAAAAAAAAAAAAAAAAAAAAwUAAAADAAAAAU5TSFNzZXRBAAAC5VhQc3Q8UHJlc2V0Q2h1bmtYTUxUcmVlIHZlcnNpb249IjIiPgogICAgPFByZXNldCBOYW1lPSIiIEdlbmVyaWNUeXBlPSJTSFVGIj4KICAgICAgICA8UHJlc2V0SGVhZGVyPgogICAgICAgICAgICA8UGx1Z2luTmFtZT5TMSBJbWFnZXI8L1BsdWdpbk5hbWU+CiAgICAgICAgICAgIDxQbHVnaW5TdWJDb21wPk5TSFM8L1BsdWdpblN1YkNvbXA+CiAgICAgICAgICAgIDxQbHVnaW5WZXJzaW9uPjEwLjAuMC4xNjwvUGx1Z2luVmVyc2lvbj4KICAgICAgICAgICAgPEFjdGl2ZVNldHVwPlNFVFVQX0E8L0FjdGl2ZVNldHVwPgogICAgICAgICAgICA8UmVhZE9ubHk+dHJ1ZTwvUmVhZE9ubHk+CiAgICAgICAgPC9QcmVzZXRIZWFkZXI+CiAgICAgICAgPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0EiPgogICAgICAgICAgICA8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPi0xLjE5OTk5OTk5OTk5OTk5OTk1NTYgMC44NTk5OTk5OTk5OTk5OTk5ODY2OCAxIDY1MCAtMjcuNSAtNTUgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgoAAAAAPEJ5cGFzcyBWZXJzaW9uPSIxLjAiIEJ5cGFzcz0iMCIvPgo=]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
@@ -104,7 +104,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="a0e4c415-de79-4b50-a5d4-d7c42e244a14" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="29f25d46-65f9-4d0e-a6a1-1141e5473541" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -125,7 +125,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="3e57a4dc-bc30-4731-8f56-9ec7e766d91b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="b1c67f3a-429d-45f4-b881-5399f1157e28" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -214,7 +214,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="9154de39-1341-476d-9c4c-8debd8c677a6" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="86655f02-8da1-4e9a-8b93-9c8807d064ac" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -239,7 +239,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="c8997b84-4f9a-4cf3-9d96-18457c343209" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="f2fb0d97-b630-4333-9618-05a050499f3b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -264,7 +264,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="21b0dd41-9282-41f8-bff0-10982f4d53d0" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="479cf284-6ab5-4c61-a83c-4585b855be03" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -289,7 +289,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="255029b5-0f3b-4615-a231-d37b252820da" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="a08b8a60-221c-4b08-934b-21ac246e4e5e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -314,7 +314,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="b89b9b1c-93ed-4b10-bb63-7b81cd35cfca" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="00d8f196-3ef9-4875-8379-bd935609555a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -407,7 +407,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="a89b3daf-85b3-4e53-a742-1dee28c62441" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="547d76c7-8c21-4823-8eb6-5c8390ff7e45" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -428,7 +428,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="ed5bed29-c188-44f9-92f3-f73c9b7493be" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="22e57369-2ea8-4f3a-829f-d3891ba96df9" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -453,7 +453,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="222a550c-e23c-442e-aa13-8327fc53a347" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="e8008f0e-b0d5-42d2-971a-915a8984fb04" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -478,7 +478,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="32b5f566-0304-46fc-9b90-522dd4de5f0b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="f96a6dae-7d99-485a-98f6-2e889cf97c3d" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -589,7 +589,7 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[AAADAwAAAAMAAAABTlNIU3NldEEAAALjWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTUuOTAwMDAwMDAwMDAwMDAwMzU1MyAwLjM5MDAwMDAwMDAwMDAwMDAxMzMyIDEgNjUwIC0yMCAtNDAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgo9CfIU]]></presetChunkData>
+              <presetChunkData><![CDATA[AAADAwAAAAMAAAABTlNIU3NldEEAAALjWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTUuOTAwMDAwMDAwMDAwMDAwMzU1MyAwLjM5MDAwMDAwMDAwMDAwMDAxMzMyIDEgNjUwIC0yMCAtNDAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgoAAAAA]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
@@ -599,7 +599,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="797e8788-d1bc-4b9d-9504-8b1e75eb242a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="7c386ef5-0ebe-4867-910d-ff8df762b28e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -620,7 +620,7 @@
             <parameter index="0" name="volume" parameterValue="0.84286212921142578125"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="2f34d9f9-cc82-4afb-ab25-00a7014e030a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="cbc3ef11-7369-4541-a2a7-14f846d4e4d7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -755,7 +755,7 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[AAADAQAAAAMAAAABTlNIU3NldEEAAALhWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTYuMjk5OTk5OTk5OTk5OTk5ODIyNCAwLjM0MDAwMDAwMDAwMDAwMDAyNDQyIDEgNjUwIDE1IDMwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICAgICAgPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0IiPgogICAgICAgICAgICA8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPjAgMSAxIDY1MCAwIDAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgIDwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KmVc+mg==]]></presetChunkData>
+              <presetChunkData><![CDATA[AAADAQAAAAMAAAABTlNIU3NldEEAAALhWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTYuMjk5OTk5OTk5OTk5OTk5ODIyNCAwLjM0MDAwMDAwMDAwMDAwMDAyNDQyIDEgNjUwIDE1IDMwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICAgICAgPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0IiPgogICAgICAgICAgICA8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPjAgMSAxIDY1MCAwIDAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgIDwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KCgAAAA==]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
@@ -765,7 +765,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="129eca85-0846-49a4-bafd-88658ce7d457" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="7dc83769-d919-45b0-9f9b-0ee6ade08897" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -786,7 +786,7 @@
             <parameter index="0" name="volume" parameterValue="0.83867871761322021484375"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="88b5eee3-012b-4cde-bfee-fda8c8787ac7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="0aa13bad-02c7-4d9b-bfc8-a08c2878f062" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -875,7 +875,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="42473d6e-49eb-43fd-b69a-5fbcf24b4cd8" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="03ca65c2-9be9-4448-b951-f29437d2db95" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -896,7 +896,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="d522c26f-281e-4fb7-92be-b81853eae0d9" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="935b1a52-2fb1-4109-bc7c-22c2b34d75aa" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1003,7 +1003,7 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[AAADAwAAAAMAAAABTlNIU3NldEEAAALjWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTAuNTk5OTk5OTk5OTk5OTk5OTc3OCAwLjkzMDAwMDAwMDAwMDAwMDA0ODg1IDEgNjUwIC00MCAtODAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgo+6meS]]></presetChunkData>
+              <presetChunkData><![CDATA[AAADAwAAAAMAAAABTlNIU3NldEEAAALjWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTAuNTk5OTk5OTk5OTk5OTk5OTc3OCAwLjkzMDAwMDAwMDAwMDAwMDA0ODg1IDEgNjUwIC00MCAtODAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgoKAAAA]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
@@ -1013,7 +1013,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="c9302a4c-0398-4bbe-8039-963b606b4fb3" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="833901aa-1743-4a56-829e-fd354ff66d40" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1033,7 +1033,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="fe9939de-d0c5-4b07-9533-2ad5197c38a9" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="73bcf213-6583-4223-8d07-d0b1b45b3290" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1139,7 +1139,7 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[AAADBAAAAAMAAAABTlNIU3NldEEAAALkWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTAuNjk5OTk5OTk5OTk5OTk5OTU1NTkgMC45MTAwMDAwMDAwMDAwMDAwMzEwOSAxIDY1MCAzOC41IDc3ICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICAgICAgPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0IiPgogICAgICAgICAgICA8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPjAgMSAxIDY1MCAwIDAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgIDwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KgFLDRw==]]></presetChunkData>
+              <presetChunkData><![CDATA[AAADBAAAAAMAAAABTlNIU3NldEEAAALkWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTAuNjk5OTk5OTk5OTk5OTk5OTU1NTkgMC45MTAwMDAwMDAwMDAwMDAwMzEwOSAxIDY1MCAzOC41IDc3ICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICAgICAgPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0IiPgogICAgICAgICAgICA8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPjAgMSAxIDY1MCAwIDAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgIDwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KAAAAAA==]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
@@ -1149,7 +1149,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="275cf9af-7eb3-4e4d-8c2a-77242c6b05bf" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="1084b615-6c7f-4668-b8ef-0f608094aa65" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1256,7 +1256,7 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[AAADAgAAAAMAAAABTlNIU3NldEEAAALiWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTQuMDk5OTk5OTk5OTk5OTk5NjQ0NyAxLjc4MDAwMDAwMDAwMDAwMDAyNjYgMSA2NTAgMzEuNSA2MyAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgICAgIDxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KICAgICAgICAgICAgPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wIDEgMSA2NTAgMCAwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICA8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+Cqy+gFI=]]></presetChunkData>
+              <presetChunkData><![CDATA[AAADAgAAAAMAAAABTlNIU3NldEEAAALiWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTQuMDk5OTk5OTk5OTk5OTk5NjQ0NyAxLjc4MDAwMDAwMDAwMDAwMDAyNjYgMSA2NTAgMzEuNSA2MyAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgICAgIDxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KICAgICAgICAgICAgPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wIDEgMSA2NTAgMCAwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICA8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+CgAAAAA=]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
@@ -1266,7 +1266,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="2.2387235164642333984375"/>
           </component>
-          <component componentGuid="49ffd609-a7d3-44f1-9950-d8bd112e572d" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="0f1b8cc0-fb1b-44d1-b4bc-36a1bef8337e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1288,7 +1288,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="2.2387235164642333984375"/>
           </component>
-          <component componentGuid="58c120b6-a02b-4b7a-800c-f805ed2fbfaf" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="f04f05ff-51f0-4398-a59b-dc1c7767dc1b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1377,7 +1377,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="b4952873-a277-436b-8229-5691fb4400bd" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="6107c13e-1679-45e7-9b23-338b4410f5ef" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1398,7 +1398,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="eca6be19-45be-4dfd-99d2-3fdd15024bcc" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="9af3a92b-b7e6-4a0b-ae05-7e8cd03187f7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1419,7 +1419,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="ba4ce52d-0701-478c-922f-b9cfc3f08b2b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="554331f0-33f1-4b16-96d0-663f251c2e2a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1508,7 +1508,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="109cb017-5c99-4091-931f-b2cdff1e2768" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="a5a86816-d239-4066-a011-078ca0887130" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1529,7 +1529,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="bba08eeb-4be8-4b0c-9bb7-c0157791cbe6" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="2d1fd379-ec0f-4bb5-966f-561b56a4bbd4" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1618,7 +1618,7 @@
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="34b0e940-f3e9-4d59-9558-cb88a22cfed7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="b04e2334-c8be-4396-9cbe-2b66fbb424cc" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1635,7 +1635,7 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <busTrack automationLaneOpenState="false" id="10030" index="4" select="true" visible="true">
+      <busTrack automationLaneOpenState="false" id="10030" index="4" select="false" visible="true">
         <trackParameters trackHeight="54" trackHue="-1" trackMinimized="false">
           <name>吉他总轨</name>
         </trackParameters>
@@ -1821,13 +1821,13 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[AAADBQAAAAMAAAABTlNIU3NldEEAAALlWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTAuNTk5OTk5OTk5OTk5OTk5OTc3OCAwLjkyMDAwMDAwMDAwMDAwMDAzOTk3IDEgNjUwIC0yNy41IC01NSAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgICAgIDxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KICAgICAgICAgICAgPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wIDEgMSA2NTAgMCAwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICA8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+ClLDRwA=]]></presetChunkData>
+              <presetChunkData><![CDATA[AAADBQAAAAMAAAABTlNIU3NldEEAAALlWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTAuNTk5OTk5OTk5OTk5OTk5OTc3OCAwLjkyMDAwMDAwMDAwMDAwMDAzOTk3IDEgNjUwIC0yNy41IC01NSAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgICAgIDxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KICAgICAgICAgICAgPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wIDEgMSA2NTAgMCAwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICA8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+CgAAAAA=]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </busTrack>
-      <masterTrack automationLaneOpenState="false" id="10000" index="15" select="false" visible="true">
+      <masterTrack automationLaneOpenState="false" id="10000" index="15" select="true" visible="true">
         <trackParameters trackHeight="54" trackHue="-1" trackMinimized="false">
           <name>主</name>
         </trackParameters>
@@ -1930,9 +1930,9 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </masterTrack>
     </tracks>
-    <sessionState ctiPosition="6946647" smpteStart="0">
-      <selectionState selectionDuration="0" selectionStart="6946647"/>
-      <viewState horizontalViewDuration="593530" horizontalViewStart="6549936" trackControlsWidth="224" verticalScrollOffset="-180"/>
+    <sessionState ctiPosition="8138381" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="8138381"/>
+      <viewState horizontalViewDuration="13671342" horizontalViewStart="0" trackControlsWidth="224" verticalScrollOffset="-191"/>
       <timeFormatState beatsPerBar="2" beatsPerMinute="140" customFrameRate="12" linkToDefaultTimeSettings="true" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="12" timeCodeNTSC="false" timeFormat="timeFormatBarsAndBeats"/>
       <mixingOptionState defaultPanModeLogarithmic="false" panPower="-3" playOverlappingClips="false"/>
     </sessionState>
@@ -1948,9 +1948,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 13.0 (Windows)</xmp:CreatorTool>
          <xmp:CreateDate>2020-09-26T16:10:31-07:00</xmp:CreateDate>
-         <xmp:MetadataDate>2020-10-10T00:42:28-07:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2020-10-10T00:42:28-07:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:03576cee-8ff5-d443-a4ec-d23204d92dcd</xmpMM:InstanceID>
+         <xmp:MetadataDate>2020-10-10T00:49:52-07:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-10-10T00:49:52-07:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:7e34d96a-3cb5-0240-b154-99bf9e97b3d7</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:d7e0d021-d313-0b4f-9afd-e6d9187279e7</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:d7e0d021-d313-0b4f-9afd-e6d9187279e7</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -2942,6 +2942,48 @@
                   <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:c9bed0b5-63f6-0644-86a2-8b457cc352dd</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T00:46:56-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:9258cbfa-775d-2b4c-8ac6-f4c4fdca3e8f</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T00:46:56-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:18571633-cf59-dd47-a468-806b6aaf8f12</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T00:49-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:304c9285-a914-aa49-a239-76153800c113</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T00:49-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:492e9631-89f4-b247-b0ab-703fbd800276</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T00:49:52-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:7e34d96a-3cb5-0240-b154-99bf9e97b3d7</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T00:49:52-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <dc:format>application/xml</dc:format>
@@ -2997,11 +3039,11 @@
                               <rdf:Seq>
                                  <rdf:li rdf:parseType="Resource">
                                     <xmpDM:key>marker_guid</xmpDM:key>
-                                    <xmpDM:value>xmp:id:9639bbc3-1a1e-e545-9331-5d34107183e4</xmpDM:value>
+                                    <xmpDM:value>xmp:id:34246fe0-acbd-1342-a25e-537bfa148ca5</xmpDM:value>
                                  </rdf:li>
                               </rdf:Seq>
                            </xmpDM:cuePointParams>
-                           <xmpDM:guid>xmp:id:9639bbc3-1a1e-e545-9331-5d34107183e4</xmpDM:guid>
+                           <xmpDM:guid>xmp:id:34246fe0-acbd-1342-a25e-537bfa148ca5</xmpDM:guid>
                         </rdf:li>
                         <rdf:li rdf:parseType="Resource">
                            <xmpDM:startTime>2797703</xmpDM:startTime>
@@ -3010,11 +3052,11 @@
                               <rdf:Seq>
                                  <rdf:li rdf:parseType="Resource">
                                     <xmpDM:key>marker_guid</xmpDM:key>
-                                    <xmpDM:value>xmp:id:47581fe5-61a4-0d43-a82e-f50f3f09216d</xmpDM:value>
+                                    <xmpDM:value>xmp:id:7dfd0202-62b1-0248-9e6d-38f635d59b2f</xmpDM:value>
                                  </rdf:li>
                               </rdf:Seq>
                            </xmpDM:cuePointParams>
-                           <xmpDM:guid>xmp:id:47581fe5-61a4-0d43-a82e-f50f3f09216d</xmpDM:guid>
+                           <xmpDM:guid>xmp:id:7dfd0202-62b1-0248-9e6d-38f635d59b2f</xmpDM:guid>
                         </rdf:li>
                      </rdf:Seq>
                   </xmpDM:markers>
