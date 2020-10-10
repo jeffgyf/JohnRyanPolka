@@ -5,7 +5,7 @@
   <session appBuild="13.0.8.43" appVersion="13.0" audioChannelType="stereo" bitDepth="32" duration="13671343" sampleRate="48000">
     <tracks>
       <audioTrack automationLaneOpenState="false" id="10001" index="1" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="160" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="160" trackMinimized="false">
           <name>鼓</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -94,17 +94,17 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[KAMAAAAAAAAAAAAAAAAAAAAAAwUAAAADAAAAAU5TSFNzZXRBAAAC5VhQc3Q8UHJlc2V0Q2h1bmtYTUxUcmVlIHZlcnNpb249IjIiPgogICAgPFByZXNldCBOYW1lPSIiIEdlbmVyaWNUeXBlPSJTSFVGIj4KICAgICAgICA8UHJlc2V0SGVhZGVyPgogICAgICAgICAgICA8UGx1Z2luTmFtZT5TMSBJbWFnZXI8L1BsdWdpbk5hbWU+CiAgICAgICAgICAgIDxQbHVnaW5TdWJDb21wPk5TSFM8L1BsdWdpblN1YkNvbXA+CiAgICAgICAgICAgIDxQbHVnaW5WZXJzaW9uPjEwLjAuMC4xNjwvUGx1Z2luVmVyc2lvbj4KICAgICAgICAgICAgPEFjdGl2ZVNldHVwPlNFVFVQX0E8L0FjdGl2ZVNldHVwPgogICAgICAgICAgICA8UmVhZE9ubHk+dHJ1ZTwvUmVhZE9ubHk+CiAgICAgICAgPC9QcmVzZXRIZWFkZXI+CiAgICAgICAgPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0EiPgogICAgICAgICAgICA8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPi0xLjE5OTk5OTk5OTk5OTk5OTk1NTYgMC44NTk5OTk5OTk5OTk5OTk5ODY2OCAxIDY1MCAtMjcuNSAtNTUgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgoAAAAAPEJ5cGFzcyBWZXJzaW9uPSIxLjAiIEJ5cGFzcz0iMCIvPgo=]]></presetChunkData>
+              <presetChunkData><![CDATA[KAMAAAAAAAAAAAAAAAAAAAAAAwUAAAADAAAAAU5TSFNzZXRBAAAC5VhQc3Q8UHJlc2V0Q2h1bmtYTUxUcmVlIHZlcnNpb249IjIiPgogICAgPFByZXNldCBOYW1lPSIiIEdlbmVyaWNUeXBlPSJTSFVGIj4KICAgICAgICA8UHJlc2V0SGVhZGVyPgogICAgICAgICAgICA8UGx1Z2luTmFtZT5TMSBJbWFnZXI8L1BsdWdpbk5hbWU+CiAgICAgICAgICAgIDxQbHVnaW5TdWJDb21wPk5TSFM8L1BsdWdpblN1YkNvbXA+CiAgICAgICAgICAgIDxQbHVnaW5WZXJzaW9uPjEwLjAuMC4xNjwvUGx1Z2luVmVyc2lvbj4KICAgICAgICAgICAgPEFjdGl2ZVNldHVwPlNFVFVQX0E8L0FjdGl2ZVNldHVwPgogICAgICAgICAgICA8UmVhZE9ubHk+dHJ1ZTwvUmVhZE9ubHk+CiAgICAgICAgPC9QcmVzZXRIZWFkZXI+CiAgICAgICAgPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0EiPgogICAgICAgICAgICA8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPi0xLjE5OTk5OTk5OTk5OTk5OTk1NTYgMC44NTk5OTk5OTk5OTk5OTk5ODY2OCAxIDY1MCAtMjcuNSAtNTUgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgob3FwAPEJ5cGFzcyBWZXJzaW9uPSIxLjAiIEJ5cGFzcz0iMCIvPgo=]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1480501" fileID="0" hue="-1" id="0" lockedInTime="false" looped="false" name="鼓" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1479681" startPoint="820" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="52774" fileID="0" hue="-1" id="0" lockedInTime="false" looped="false" name="鼓" offline="false" select="false" sourceInPoint="9437" sourceOutPoint="50879" startPoint="11332" zOrder="4">
           <component componentGuid="deade984-7254-4ba9-a730-b2b6c970a3d6" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="29f25d46-65f9-4d0e-a6a1-1141e5473541" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="5ab4389e-d082-4eb8-ab33-9d20e9776143" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -112,7 +112,7 @@
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1479681" shape="19" startPoint="1479681" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="41442" shape="18" startPoint="41165" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <channelMap>
@@ -120,19 +120,103 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8127924" fileID="0" hue="-1" id="1" lockedInTime="false" looped="false" name="鼓" offline="false" select="false" sourceInPoint="2793871" sourceOutPoint="4178087" startPoint="6743708" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="2" endPoint="92589" fileID="0" hue="-1" id="1" lockedInTime="false" looped="false" name="鼓" offline="false" select="false" sourceInPoint="52276" sourceOutPoint="92368" startPoint="52497" zOrder="3">
+          <component componentGuid="34850d0d-330c-4b51-8141-dd7c6d1a33d4" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="211b1559-69af-4ab2-9255-75613424b3b7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="918bf786-8ce1-48a8-a835-254ecd2e8e1a" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="声像" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="277" shape="19" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="40092" shape="18" startPoint="39530" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="1" crossFadeTailClipID="3" endPoint="133534" fileID="0" hue="-1" id="2" lockedInTime="false" looped="false" name="鼓" offline="false" select="false" sourceInPoint="92789" sourceOutPoint="134296" startPoint="92027" zOrder="5">
+          <component componentGuid="cfcb5b89-5b0a-418f-90fd-91cf813e0c89" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="b952efa6-3db4-4984-90d2-0d7a51c37999" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="f9315798-4b7d-4096-ada9-d14fae29ee79" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="声像" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="562" shape="19" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="41507" shape="18" startPoint="40945" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="2" crossFadeTailClipID="-1" endPoint="164537" fileID="0" hue="-1" id="3" lockedInTime="false" looped="false" name="鼓" offline="false" select="false" sourceInPoint="134296" sourceOutPoint="165861" startPoint="132972" zOrder="1">
+          <component componentGuid="5c71f7e6-21aa-4d0e-9302-a8efa4aca161" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="3a5a7d2f-f1a9-4d95-a12f-d6a641885c9e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="bb9347e3-83d9-4aee-9320-0dff01807d82" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="声像" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="562" shape="19" startPoint="0" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="31565" shape="19" startPoint="31565" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1478357" fileID="0" hue="-1" id="4" lockedInTime="false" looped="false" name="鼓" offline="false" select="false" sourceInPoint="165861" sourceOutPoint="1479681" startPoint="164537" zOrder="2">
+          <component componentGuid="b4cc6cac-aca2-4613-89a0-0e454ace4f1e" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1"/>
+          </component>
+          <component componentGuid="60426a7f-12e0-407d-9adf-6228af82e3b5" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="724a02b8-f273-44d7-92e1-b6a59700c402" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="声像" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1313820" shape="19" startPoint="1313820" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8125780" fileID="0" hue="-1" id="5" lockedInTime="false" looped="false" name="鼓" offline="false" select="false" sourceInPoint="2793871" sourceOutPoint="4178087" startPoint="6741564" zOrder="0">
           <component componentGuid="a36e14a2-19f4-40ca-80ae-303d3c2f9a14" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="b1c67f3a-429d-45f4-b881-5399f1157e28" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="3b09cd39-4cee-4636-bed4-3868bcb3fd3f" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentGuid="dc15e786-1c68-4f66-af64-268c26e609cd" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="33187" shape="14" startPoint="0" type="log"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="77066" shape="14" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1384216" shape="0" startPoint="1384216" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
@@ -143,7 +227,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10002" index="2" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="267" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="267" trackMinimized="false">
           <name>吉他1</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -209,12 +293,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1483026" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1482206" startPoint="820" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1480882" fileID="1" hue="-1" id="0" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="9189" sourceOutPoint="1482206" startPoint="7865" zOrder="4">
           <component componentGuid="103d0747-fd59-467d-9a78-a4f62fa93e72" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="86655f02-8da1-4e9a-8b93-9c8807d064ac" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="6b915db7-5223-40af-9158-031e30dee45f" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -226,7 +310,7 @@
             </parameter>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1482206" shape="19" startPoint="1482206" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1473017" shape="19" startPoint="1473017" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -234,12 +318,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="2" endPoint="8040000" fileID="1" hue="-1" id="1" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="2797332" sourceOutPoint="4089194" startPoint="6748138" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="2" endPoint="8037856" fileID="1" hue="-1" id="1" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="2797332" sourceOutPoint="4089194" startPoint="6745994" zOrder="0">
           <component componentGuid="7e129ea6-b745-4bae-af33-d564be5d058c" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="f2fb0d97-b630-4333-9618-05a050499f3b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="eaa391ef-9911-49d8-95ab-bb45448466f2" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -250,7 +334,7 @@
               </parameterKeyframes>
             </parameter>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="32995" shape="19" startPoint="0" type="log"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="72636" shape="19" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1291862" shape="19" startPoint="1291328" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
@@ -259,12 +343,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="1" crossFadeTailClipID="-1" endPoint="8064507" fileID="1" hue="-1" id="2" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4130819" sourceOutPoint="4155860" startPoint="8039466" zOrder="9">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="1" crossFadeTailClipID="-1" endPoint="8062363" fileID="1" hue="-1" id="2" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4130819" sourceOutPoint="4155860" startPoint="8037322" zOrder="1">
           <component componentGuid="bedc0caf-fa21-4c47-9ed7-9e10a4a1dd79" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="479cf284-6ab5-4c61-a83c-4585b855be03" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="286fe2a6-e408-426e-8cb3-6bd5309a596e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -284,12 +368,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="4" endPoint="8078480" fileID="1" hue="-1" id="3" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4158579" sourceOutPoint="4172552" startPoint="8064507" zOrder="11">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="4" endPoint="8076336" fileID="1" hue="-1" id="3" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4158579" sourceOutPoint="4172552" startPoint="8062363" zOrder="3">
           <component componentGuid="5bd44059-3e09-4abc-81f0-a551af69ea15" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="a08b8a60-221c-4b08-934b-21ac246e4e5e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="b806966e-37cc-4e25-ba3f-81e642f6d4d8" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -309,12 +393,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="3" crossFadeTailClipID="-1" endPoint="8126356" fileID="1" hue="-1" id="4" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4158458" sourceOutPoint="4210122" startPoint="8074692" zOrder="10">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="3" crossFadeTailClipID="-1" endPoint="8124212" fileID="1" hue="-1" id="4" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4158458" sourceOutPoint="4210122" startPoint="8072548" zOrder="2">
           <component componentGuid="0d403cc3-b711-4a2c-a1fc-05565a9d03ec" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="00d8f196-3ef9-4875-8379-bd935609555a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="12340bb3-698e-4a52-aded-057951264832" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -335,8 +419,8 @@
           </channelMap>
         </audioClip>
       </audioTrack>
-      <audioTrack automationLaneOpenState="false" id="10004" index="3" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="182" trackMinimized="false">
+      <audioTrack automationLaneOpenState="false" id="10004" index="3" select="true" visible="true">
+        <trackParameters trackHeight="168" trackHue="182" trackMinimized="false">
           <name>吉他3</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -402,19 +486,19 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="8040000" fileID="2" hue="-1" id="0" lockedInTime="false" looped="false" name="吉他3" offline="false" select="false" sourceInPoint="2799758" sourceOutPoint="4091410" startPoint="6748348" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="1" endPoint="8037856" fileID="2" hue="-1" id="0" lockedInTime="false" looped="false" name="吉他3" offline="false" select="false" sourceInPoint="2799758" sourceOutPoint="4091410" startPoint="6746204" zOrder="0">
           <component componentGuid="2ef172c4-9183-4c81-9c51-c6693d696038" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="547d76c7-8c21-4823-8eb6-5c8390ff7e45" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="ad4e2505-705c-422d-beb6-fe5f12eafdac" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentGuid="0d005b6d-4ce3-43dd-bc19-0eaa678e22ff" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="32785" shape="19" startPoint="0" type="log"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="72426" shape="19" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1291652" shape="19" startPoint="1291118" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
@@ -423,12 +507,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="8064507" fileID="1" hue="-1" id="1" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4130819" sourceOutPoint="4155860" startPoint="8039466" zOrder="9">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="0" crossFadeTailClipID="-1" endPoint="8062363" fileID="1" hue="-1" id="1" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4130819" sourceOutPoint="4155860" startPoint="8037322" zOrder="1">
           <component componentGuid="6786f440-4ac3-4a54-a110-4ced1f180059" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="22e57369-2ea8-4f3a-829f-d3891ba96df9" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="8bec98c3-17d6-4b0e-910f-52619045a9a5" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -448,12 +532,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="3" endPoint="8078480" fileID="1" hue="-1" id="2" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4158579" sourceOutPoint="4172552" startPoint="8064507" zOrder="11">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="3" endPoint="8076336" fileID="1" hue="-1" id="2" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4158579" sourceOutPoint="4172552" startPoint="8062363" zOrder="3">
           <component componentGuid="3475a110-b0e2-4506-9dfa-b4f187e78c2d" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="e8008f0e-b0d5-42d2-971a-915a8984fb04" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="b100015d-d203-45a3-bd9d-79b5cbebfd61" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -473,12 +557,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="2" crossFadeTailClipID="-1" endPoint="8126356" fileID="1" hue="-1" id="3" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4158458" sourceOutPoint="4210122" startPoint="8074692" zOrder="10">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="2" crossFadeTailClipID="-1" endPoint="8124212" fileID="1" hue="-1" id="3" lockedInTime="false" looped="false" name="吉他1" offline="false" select="false" sourceInPoint="4158458" sourceOutPoint="4210122" startPoint="8072548" zOrder="2">
           <component componentGuid="2d41f7da-4594-454f-a982-e0862f3c0248" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="f96a6dae-7d99-485a-98f6-2e889cf97c3d" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="e75cf2fa-cb1d-464b-a10e-d2af8ef518b2" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -500,14 +584,14 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10005" index="5" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="294" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="294" trackMinimized="false">
           <name>手风琴</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
           <trackOutput outputID="10000" type="trackID"/>
           <trackInput inputID="1"/>
           <component componentGuid="290a017f-eaf4-45ff-85ec-0b6c321461df" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1.36458301544189453125"/>
+            <parameter index="0" name="volume" parameterValue="1.927525043487548828125"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
           <component componentGuid="1f1540c9-50a0-409e-9ee0-a2c13a35fff0" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
@@ -589,17 +673,37 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[AAADAwAAAAMAAAABTlNIU3NldEEAAALjWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTUuOTAwMDAwMDAwMDAwMDAwMzU1MyAwLjM5MDAwMDAwMDAwMDAwMDAxMzMyIDEgNjUwIC0yMCAtNDAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgoAAAAA]]></presetChunkData>
+              <presetChunkData><![CDATA[AAADAwAAAAMAAAABTlNIU3NldEEAAALjWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTUuOTAwMDAwMDAwMDAwMDAwMzU1MyAwLjM5MDAwMDAwMDAwMDAwMDAxMzMyIDEgNjUwIC0yMCAtNDAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgoAwDjh]]></presetChunkData>
+            </component>
+          </slot>
+          <slot powered="true" slotIndex="1">
+            <component componentGuid="6bf121b5-cb68-41b2-8045-b192de3b6c8c" componentID="e0b23f05-f1a7-4ef7-9b50-7ec3e3002058" editorHeight="378" editorLeft="730" editorTop="331" editorWidth="461" name="强制限幅" presetName="（自定义）">
+              <busConfig><![CDATA[{"in":[{"layout":[100,101],"name":"","type":0}],"out":[{"layout":[100,101],"name":"","type":0}]}]]></busConfig>
+              <channelMap direction="input">
+                <channel index="0" sourceIndex="0"/>
+                <channel index="1" sourceIndex="1"/>
+              </channelMap>
+              <channelMap direction="output">
+                <channel index="0" sourceIndex="0"/>
+                <channel index="1" sourceIndex="1"/>
+              </channelMap>
+              <parameter index="0" name="最大振幅" parameterValue="0.99500000476837158203125"/>
+              <parameter index="1" name="输入增强" parameterValue="0.666666686534881591796875"/>
+              <parameter index="2" name="预测时间" parameterValue="0.13333301246166229248046875"/>
+              <parameter index="3" name="释放时间" parameterValue="0.375"/>
+              <parameter index="4" name="链接声道" parameterValue="1"/>
+              <parameter index="5" name="衰减至天花板" parameterValue="1"/>
+              <parameter index="6" name="限制实际峰值" parameterValue="0"/>
             </component>
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1482394" fileID="3" hue="-1" id="0" lockedInTime="false" looped="false" name="手风琴" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1481574" startPoint="820" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="813365" fileID="3" hue="-1" id="0" lockedInTime="false" looped="false" name="手风琴" offline="false" select="false" sourceInPoint="11672" sourceOutPoint="814689" startPoint="10348" zOrder="1">
           <component componentGuid="3efbe505-f89b-40a6-a836-e9e61ecdab25" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="7c386ef5-0ebe-4867-910d-ff8df762b28e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="5f9ce857-edbc-4035-b27e-164f98d1cc72" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -607,7 +711,7 @@
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1481574" shape="19" startPoint="1481574" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="803017" shape="19" startPoint="803017" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -615,19 +719,40 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8138936" fileID="3" hue="-1" id="1" lockedInTime="false" looped="false" name="手风琴" offline="false" select="false" sourceInPoint="166216" sourceOutPoint="1556804" startPoint="6748348" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1480250" fileID="3" hue="-1" id="1" lockedInTime="false" looped="false" name="手风琴" offline="false" select="false" sourceInPoint="814689" sourceOutPoint="1481574" startPoint="813365" zOrder="1">
+          <component componentGuid="c5948bd5-3e30-4eed-872f-e2995f0c043b" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+            <parameter index="0" name="volume" parameterValue="1"/>
+            <parameter index="1" name="static gain" parameterValue="1.1481540203094482421875"/>
+          </component>
+          <component componentGuid="cbf39aac-2391-4342-9a1d-6a39d36a56d4" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+            <parameter index="0" parameterValue="0"/>
+            <parameter index="1" name="mute" parameterValue="0"/>
+          </component>
+          <component componentGuid="1b0c4180-62a4-452c-8b0f-13530e81fd7b" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+            <parameter index="0" name="声像" parameterValue="0"/>
+          </component>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="666885" shape="19" startPoint="666885" type="log"/>
+          <editParameter parameterIndex="0" slotIndex="4294967281"/>
+          <editParameter parameterIndex="0" slotIndex="4294967280"/>
+          <channelMap>
+            <channel index="0" sourceIndex="0"/>
+            <channel index="1" sourceIndex="1"/>
+          </channelMap>
+        </audioClip>
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8136792" fileID="3" hue="-1" id="2" lockedInTime="false" looped="false" name="手风琴" offline="false" select="false" sourceInPoint="166216" sourceOutPoint="1556804" startPoint="6746204" zOrder="0">
           <component componentGuid="d79021fc-9d58-4062-bcb4-fa05e30d4af8" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="0.84286212921142578125"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="cbc3ef11-7369-4541-a2a7-14f846d4e4d7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="71d5e638-86fd-45d7-b5dd-08d449fddf14" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentGuid="f0d8b708-245e-42c4-b29a-e0dffbd3561f" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="32785" shape="19" startPoint="0" type="log"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="72426" shape="19" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1390588" shape="0" startPoint="1390588" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
@@ -638,7 +763,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10006" index="6" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="92" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="92" trackMinimized="false">
           <name>violin</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -755,25 +880,25 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[AAADAQAAAAMAAAABTlNIU3NldEEAAALhWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTYuMjk5OTk5OTk5OTk5OTk5ODIyNCAwLjM0MDAwMDAwMDAwMDAwMDAyNDQyIDEgNjUwIDE1IDMwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICAgICAgPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0IiPgogICAgICAgICAgICA8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPjAgMSAxIDY1MCAwIDAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgIDwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KCgAAAA==]]></presetChunkData>
+              <presetChunkData><![CDATA[AAADAQAAAAMAAAABTlNIU3NldEEAAALhWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTYuMjk5OTk5OTk5OTk5OTk5ODIyNCAwLjM0MDAwMDAwMDAwMDAwMDAyNDQyIDEgNjUwIDE1IDMwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICAgICAgPFByZXNldERhdGEgU2V0dXA9IlNFVFVQX0IiPgogICAgICAgICAgICA8UGFyYW1ldGVycyBUeXBlPSJSZWFsV29ybGQiPjAgMSAxIDY1MCAwIDAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgIDwvUHJlc2V0Pgo8L1ByZXNldENodW5rWE1MVHJlZT4KAAAAAA==]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1482394" fileID="4" hue="-1" id="0" lockedInTime="false" looped="false" name="小提琴" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1482394" startPoint="0" zOrder="0">
-          <component componentGuid="f227f025-d081-435a-9c66-7195501e9655" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1480250" fileID="4" hue="-1" id="0" lockedInTime="false" looped="false" name="小提琴" offline="false" select="false" sourceInPoint="9934" sourceOutPoint="1482394" startPoint="7790" zOrder="0">
+          <component componentGuid="62f403fe-55be-48ca-b6ac-c65a460d32fe" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="7dc83769-d919-45b0-9f9b-0ee6ade08897" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="7c4261da-3a49-44a7-94c0-27058d0f317f" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
-          <component componentGuid="a9f0a8e5-d338-42e4-bc13-05e8f09ba9ac" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
+          <component componentGuid="d6a810dc-3d88-47d3-a3ee-eb60850b1273" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1482394" shape="19" startPoint="1482394" type="log"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1472460" shape="19" startPoint="1472460" type="log"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -781,19 +906,19 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8137857" fileID="4" hue="-1" id="1" lockedInTime="false" looped="false" name="小提琴" offline="false" select="false" sourceInPoint="2799579" sourceOutPoint="4193205" startPoint="6744231" zOrder="12">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8135713" fileID="4" hue="-1" id="1" lockedInTime="false" looped="false" name="小提琴" offline="false" select="false" sourceInPoint="2799579" sourceOutPoint="4193205" startPoint="6742087" zOrder="1">
           <component componentGuid="856b310f-204f-4e2b-b9ef-97e374d2a03f" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="0.83867871761322021484375"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="0aa13bad-02c7-4d9b-bfc8-a08c2878f062" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="9771475c-1182-4f0f-aeac-68fde9712cb6" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentGuid="6895b305-3b69-4fc2-a77a-10706e7515f6" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="34706" shape="19" startPoint="0" type="log"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="76543" shape="19" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1393626" shape="0" startPoint="1393626" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
@@ -804,7 +929,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10014" index="7" select="false" visible="true">
-        <trackParameters trackHeight="96" trackHue="211" trackMinimized="false">
+        <trackParameters trackHeight="293" trackHue="211" trackMinimized="false">
           <name>mscz</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -870,12 +995,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1481763" fileID="5" hue="-1" id="0" lockedInTime="false" looped="false" name="John_Ryan's_Polkax(1) 48000 2" offline="false" select="false" sourceInPoint="0" sourceOutPoint="1481763" startPoint="0" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="1479619" fileID="5" hue="-1" id="0" lockedInTime="false" looped="false" name="John_Ryan's_Polkax(1) 48000 2" offline="false" select="false" sourceInPoint="8941" sourceOutPoint="1481763" startPoint="6797" zOrder="1">
           <component componentGuid="7227b945-6046-4d36-8db1-789aa9b9f24a" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="03ca65c2-9be9-4448-b951-f29437d2db95" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="d7d486a0-6af5-426a-98ab-ff46d80973c7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -883,7 +1008,7 @@
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
           <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="0" shape="0" startPoint="0" type="cosine"/>
-          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1481763" shape="0" startPoint="1481763" type="cosine"/>
+          <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1472822" shape="0" startPoint="1472822" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
           <channelMap>
@@ -891,19 +1016,19 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8140053" fileID="5" hue="-1" id="1" lockedInTime="false" looped="false" name="John_Ryan's_Polkax(1) 48000 2" offline="false" select="false" sourceInPoint="2795394" sourceOutPoint="4189408" startPoint="6746039" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8137909" fileID="5" hue="-1" id="1" lockedInTime="false" looped="false" name="John_Ryan's_Polkax(1) 48000 2" offline="false" select="false" sourceInPoint="2795394" sourceOutPoint="4189408" startPoint="6743895" zOrder="0">
           <component componentGuid="a76ee7c6-54f7-45d7-aa11-84d528951694" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="935b1a52-2fb1-4109-bc7c-22c2b34d75aa" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="ba2af190-ac1f-47d0-a4f1-e6a92b3033a0" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentGuid="e9e77306-efd7-4d77-8986-c09962992f06" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="30856" shape="14" startPoint="0" type="log"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="74735" shape="14" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1394014" shape="0" startPoint="1394014" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
@@ -914,7 +1039,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10031" index="8" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="92" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="92" trackMinimized="false">
           <name>kalimba</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -1003,24 +1128,24 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[AAADAwAAAAMAAAABTlNIU3NldEEAAALjWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTAuNTk5OTk5OTk5OTk5OTk5OTc3OCAwLjkzMDAwMDAwMDAwMDAwMDA0ODg1IDEgNjUwIC00MCAtODAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgoKAAAA]]></presetChunkData>
+              <presetChunkData><![CDATA[AAADAwAAAAMAAAABTlNIU3NldEEAAALjWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTAuNTk5OTk5OTk5OTk5OTk5OTc3OCAwLjkzMDAwMDAwMDAwMDAwMDA0ODg1IDEgNjUwIC00MCAtODAgKiAqICogKgoqIDAgMCAwIDAgMCAwIDAgPC9QYXJhbWV0ZXJzPgogICAgICAgIDwvUHJlc2V0RGF0YT4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQiI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxIDEgNjUwIDAgMCAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgPC9QcmVzZXQ+CjwvUHJlc2V0Q2h1bmtYTUxUcmVlPgoADgAA]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="7085770" fileID="6" hue="-1" id="0" lockedInTime="false" looped="false" name="kalimba" offline="false" select="false" sourceInPoint="3521" sourceOutPoint="335817" startPoint="6753474" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="7083626" fileID="6" hue="-1" id="0" lockedInTime="false" looped="false" name="kalimba" offline="false" select="false" sourceInPoint="3521" sourceOutPoint="335817" startPoint="6751330" zOrder="0">
           <component componentGuid="7e4fe503-dcdb-4a2f-a873-a15390bb9e5f" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="833901aa-1743-4a56-829e-fd354ff66d40" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="24436b5d-9cd1-46a9-8a58-92f8f2ecf683" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentGuid="7877f8c7-34f8-4d50-a2e3-fe3535cb192e" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="23421" shape="14" startPoint="0" type="log"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="67300" shape="14" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="332296" shape="0" startPoint="332296" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
@@ -1028,12 +1153,12 @@
             <channel index="0" sourceIndex="0"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8111313" fileID="6" hue="-1" id="1" lockedInTime="false" looped="false" name="kalimba" offline="false" select="false" sourceInPoint="335817" sourceOutPoint="1361360" startPoint="7085770" zOrder="9">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8109169" fileID="6" hue="-1" id="1" lockedInTime="false" looped="false" name="kalimba" offline="false" select="false" sourceInPoint="335817" sourceOutPoint="1361360" startPoint="7083626" zOrder="1">
           <component componentGuid="91b77136-71e8-4c38-9a95-16fd219f4095" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="73bcf213-6583-4223-8d07-d0b1b45b3290" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="4ef58866-2efb-4f90-aaa5-e84e643db9ac" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1050,7 +1175,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10018" index="9" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="130" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="130" trackMinimized="false">
           <name>tenor</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -1144,19 +1269,19 @@
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8140053" fileID="7" hue="-1" id="0" lockedInTime="false" looped="false" name="tenor_guitar 48000 1" offline="false" select="false" sourceInPoint="1182617" sourceOutPoint="2576243" startPoint="6746427" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8137909" fileID="7" hue="-1" id="0" lockedInTime="false" looped="false" name="tenor_guitar 48000 1" offline="false" select="false" sourceInPoint="1182617" sourceOutPoint="2576243" startPoint="6744283" zOrder="0">
           <component componentGuid="de2df201-5df6-4525-8a73-eaff3e9af6d6" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="1084b615-6c7f-4668-b8ef-0f608094aa65" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="007b7766-3db8-4610-a88d-aa45ad325728" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentGuid="9656b214-b651-4477-8d4f-097f40fc9d5e" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="34706" shape="19" startPoint="0" type="log"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="74347" shape="19" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1393626" shape="0" startPoint="1393626" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
@@ -1167,7 +1292,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10023" index="10" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="51" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="51" trackMinimized="false">
           <name>钢琴</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -1256,24 +1381,24 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[AAADAgAAAAMAAAABTlNIU3NldEEAAALiWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTQuMDk5OTk5OTk5OTk5OTk5NjQ0NyAxLjc4MDAwMDAwMDAwMDAwMDAyNjYgMSA2NTAgMzEuNSA2MyAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgICAgIDxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KICAgICAgICAgICAgPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wIDEgMSA2NTAgMCAwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICA8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+CgAAAAA=]]></presetChunkData>
+              <presetChunkData><![CDATA[AAADAgAAAAMAAAABTlNIU3NldEEAAALiWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+LTQuMDk5OTk5OTk5OTk5OTk5NjQ0NyAxLjc4MDAwMDAwMDAwMDAwMDAyNjYgMSA2NTAgMzEuNSA2MyAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgICAgIDxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KICAgICAgICAgICAgPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wIDEgMSA2NTAgMCAwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICA8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+CgAACEk=]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8064507" fileID="8" hue="-1" id="0" lockedInTime="false" looped="false" name="钢琴_001" offline="false" select="false" sourceInPoint="2874158" sourceOutPoint="4202950" startPoint="6735715" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8062363" fileID="8" hue="-1" id="0" lockedInTime="false" looped="false" name="钢琴_001" offline="false" select="false" sourceInPoint="2874158" sourceOutPoint="4202950" startPoint="6733571" zOrder="0">
           <component componentGuid="2abb7fee-a4b8-4b62-8329-7944041cd3e7" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="2.2387235164642333984375"/>
           </component>
-          <component componentGuid="0f1b8cc0-fb1b-44d1-b4bc-36a1bef8337e" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="957bb681-dc3c-4eff-8a96-9202ac9b49bc" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentGuid="a512b9f7-b54f-4fdb-a3f0-9ba8bd03098d" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="41180" shape="14" startPoint="0" type="log"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="85059" shape="14" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="1328792" shape="0" startPoint="1328792" type="cosine"/>
           <take sourceInPoint="0"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
@@ -1283,12 +1408,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8129906" fileID="8" hue="-1" id="1" lockedInTime="false" looped="false" name="钢琴_001" offline="false" select="false" sourceInPoint="4205280" sourceOutPoint="4269690" startPoint="8065496" zOrder="9">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8127762" fileID="8" hue="-1" id="1" lockedInTime="false" looped="false" name="钢琴_001" offline="false" select="false" sourceInPoint="4205280" sourceOutPoint="4269690" startPoint="8063352" zOrder="1">
           <component componentGuid="178f04f8-9d0f-480f-bcaf-ff14d90d9af4" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="2.2387235164642333984375"/>
           </component>
-          <component componentGuid="f04f05ff-51f0-4398-a59b-dc1c7767dc1b" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="fbd1ff15-a8f7-4a22-92af-0b4486ed5e28" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1306,7 +1431,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10019" index="11" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="240" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="240" trackMinimized="false">
           <name>ocarina1</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -1372,19 +1497,19 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6908677" fileID="9" hue="-1" id="0" lockedInTime="false" looped="false" name="ocarina1 48000 1" offline="false" select="false" sourceInPoint="3724482" sourceOutPoint="3889451" startPoint="6743708" zOrder="9">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6906533" fileID="9" hue="-1" id="0" lockedInTime="false" looped="false" name="ocarina1 48000 1" offline="false" select="false" sourceInPoint="3724482" sourceOutPoint="3889451" startPoint="6741564" zOrder="1">
           <component componentGuid="8bce94bf-abcf-4724-987a-dc70f32709ba" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="6107c13e-1679-45e7-9b23-338b4410f5ef" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="2e9c75b3-3ade-4242-8c2e-824db8283f23" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
           <component componentGuid="8a086866-3d6c-4722-8cf4-5dc5c349ce0c" componentID="Audition.StereoPanner" id="clipPan" name="StereoPanner" powered="true">
             <parameter index="0" name="声像" parameterValue="0"/>
           </component>
-          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="33187" shape="14" startPoint="0" type="log"/>
+          <fadeIn crossFadeLinkType="linkedAsymmetric" endPoint="77066" shape="14" startPoint="0" type="log"/>
           <fadeOut crossFadeLinkType="linkedAsymmetric" endPoint="164969" shape="0" startPoint="164969" type="cosine"/>
           <editParameter parameterIndex="0" slotIndex="4294967280"/>
           <editParameter parameterIndex="0" slotIndex="4294967281"/>
@@ -1393,12 +1518,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="7071016" fileID="9" hue="-1" id="1" lockedInTime="false" looped="false" name="ocarina1 48000 1" offline="false" select="false" sourceInPoint="3891838" sourceOutPoint="4052351" startPoint="6910503" zOrder="10">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="7068872" fileID="9" hue="-1" id="1" lockedInTime="false" looped="false" name="ocarina1 48000 1" offline="false" select="false" sourceInPoint="3891838" sourceOutPoint="4052351" startPoint="6908359" zOrder="2">
           <component componentGuid="73e5fe7e-a41b-41a8-adab-6f4ff479b176" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="9af3a92b-b7e6-4a0b-ae05-7e8cd03187f7" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="6b93d778-3172-4fea-97dd-de0a498296df" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1414,12 +1539,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="7313189" fileID="9" hue="-1" id="2" lockedInTime="false" looped="false" name="ocarina1 48000 1" offline="false" select="false" sourceInPoint="4057025" sourceOutPoint="4295131" startPoint="7075083" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="7311045" fileID="9" hue="-1" id="2" lockedInTime="false" looped="false" name="ocarina1 48000 1" offline="false" select="false" sourceInPoint="4057025" sourceOutPoint="4295131" startPoint="7072939" zOrder="0">
           <component componentGuid="2daae31b-ad55-49fd-a067-d01975b2b35e" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="554331f0-33f1-4b16-96d0-663f251c2e2a" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="77a4bebc-cd63-4c97-b456-d43a17e55582" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1437,7 +1562,7 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10032" index="12" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="92" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="92" trackMinimized="false">
           <name>ocarina2</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
@@ -1503,12 +1628,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8060888" fileID="10" hue="-1" id="0" lockedInTime="false" looped="false" name="ocarina2 48000 1" offline="false" select="false" sourceInPoint="4178068" sourceOutPoint="5073867" startPoint="7165089" zOrder="8">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8058744" fileID="10" hue="-1" id="0" lockedInTime="false" looped="false" name="ocarina2 48000 1" offline="false" select="false" sourceInPoint="4178068" sourceOutPoint="5073867" startPoint="7162945" zOrder="0">
           <component componentGuid="1bc030a2-70ec-4971-bf37-65d2dd1e55e9" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="a5a86816-d239-4066-a011-078ca0887130" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="6c877d6d-71af-43b1-85ea-e0fd967a5333" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1524,12 +1649,12 @@
             <channel index="1" sourceIndex="1"/>
           </channelMap>
         </audioClip>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8140747" fileID="10" hue="-1" id="1" lockedInTime="false" looped="false" name="ocarina2 48000 1" offline="false" select="false" sourceInPoint="5073867" sourceOutPoint="5153726" startPoint="8060888" zOrder="9">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="8138603" fileID="10" hue="-1" id="1" lockedInTime="false" looped="false" name="ocarina2 48000 1" offline="false" select="false" sourceInPoint="5073867" sourceOutPoint="5153726" startPoint="8058744" zOrder="1">
           <component componentGuid="3b68b73c-e7b1-4fc3-99a1-639e11596152" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="2d1fd379-ec0f-4bb5-966f-561b56a4bbd4" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="3c621cef-816c-407a-a60f-aa3b094f7260" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1547,14 +1672,14 @@
         </audioClip>
       </audioTrack>
       <audioTrack automationLaneOpenState="false" id="10020" index="14" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="32" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="32" trackMinimized="false">
           <name>SOLO</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="false">
           <trackOutput outputID="10000" type="trackID"/>
           <trackInput inputID="1"/>
           <component componentGuid="a1a1f0d1-cab2-4c63-a35f-3815db9ca426" componentID="Audition.Fader" id="trackFader" name="volume" powered="true">
-            <parameter index="0" name="volume" parameterValue="1.07151925563812255859375"/>
+            <parameter index="0" name="volume" parameterValue="1.230268955230712890625"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
           <component componentGuid="fca85229-f7c4-476f-826c-18de35c8d393" componentID="Audition.Mute" id="trackMute" name="Mute" powered="true">
@@ -1613,12 +1738,12 @@
           </component>
         </trackAudioParameters>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
-        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6792934" fileID="11" hue="-1" id="0" lockedInTime="false" looped="false" name="SOLO_缩混" offline="false" select="false" sourceInPoint="0" sourceOutPoint="5312433" startPoint="1480501" zOrder="0">
+        <audioClip clipAutoCrossfade="true" crossFadeHeadClipID="-1" crossFadeTailClipID="-1" endPoint="6790790" fileID="11" hue="-1" id="0" lockedInTime="false" looped="false" name="SOLO_缩混" offline="false" select="false" sourceInPoint="0" sourceOutPoint="5312433" startPoint="1478357" zOrder="0">
           <component componentGuid="3c21a9c4-0640-413b-89e4-9516a9f404a0" componentID="Audition.Fader" id="clipGain" name="volume" powered="true">
             <parameter index="0" name="volume" parameterValue="1"/>
             <parameter index="1" name="static gain" parameterValue="1"/>
           </component>
-          <component componentGuid="b04e2334-c8be-4396-9cbe-2b66fbb424cc" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
+          <component componentGuid="66ff107e-0213-4a7d-a412-312693a737cb" componentID="Audition.Mute" id="clipMute" name="Mute" powered="true">
             <parameter index="0" parameterValue="0"/>
             <parameter index="1" name="mute" parameterValue="0"/>
           </component>
@@ -1636,7 +1761,7 @@
         </audioClip>
       </audioTrack>
       <busTrack automationLaneOpenState="false" id="10030" index="4" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="-1" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="-1" trackMinimized="false">
           <name>吉他总轨</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
@@ -1725,14 +1850,14 @@
                 <channel index="0" sourceIndex="0"/>
                 <channel index="1" sourceIndex="1"/>
               </channelMap>
-              <presetChunkData><![CDATA[AAAC7QAAAAMAAAABTlNIU3NldEEAAALNWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxLjU3MDAwMDAwMDAwMDAwMDA2MjIgMSA2NTAgMjQuNSA0OSAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgICAgIDxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KICAgICAgICAgICAgPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wIDEgMSA2NTAgMCAwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICA8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+CgAAAAA=]]></presetChunkData>
+              <presetChunkData><![CDATA[AAAC7QAAAAMAAAABTlNIU3NldEEAAALNWFBzdDxQcmVzZXRDaHVua1hNTFRyZWUgdmVyc2lvbj0iMiI+CiAgICA8UHJlc2V0IE5hbWU9IiIgR2VuZXJpY1R5cGU9IlNIVUYiPgogICAgICAgIDxQcmVzZXRIZWFkZXI+CiAgICAgICAgICAgIDxQbHVnaW5OYW1lPlMxIEltYWdlcjwvUGx1Z2luTmFtZT4KICAgICAgICAgICAgPFBsdWdpblN1YkNvbXA+TlNIUzwvUGx1Z2luU3ViQ29tcD4KICAgICAgICAgICAgPFBsdWdpblZlcnNpb24+MTAuMC4wLjE2PC9QbHVnaW5WZXJzaW9uPgogICAgICAgICAgICA8QWN0aXZlU2V0dXA+U0VUVVBfQTwvQWN0aXZlU2V0dXA+CiAgICAgICAgICAgIDxSZWFkT25seT50cnVlPC9SZWFkT25seT4KICAgICAgICA8L1ByZXNldEhlYWRlcj4KICAgICAgICA8UHJlc2V0RGF0YSBTZXR1cD0iU0VUVVBfQSI+CiAgICAgICAgICAgIDxQYXJhbWV0ZXJzIFR5cGU9IlJlYWxXb3JsZCI+MCAxLjU3MDAwMDAwMDAwMDAwMDA2MjIgMSA2NTAgMjQuNSA0OSAqICogKiAqCiogMCAwIDAgMCAwIDAgMCA8L1BhcmFtZXRlcnM+CiAgICAgICAgPC9QcmVzZXREYXRhPgogICAgICAgIDxQcmVzZXREYXRhIFNldHVwPSJTRVRVUF9CIj4KICAgICAgICAgICAgPFBhcmFtZXRlcnMgVHlwZT0iUmVhbFdvcmxkIj4wIDEgMSA2NTAgMCAwICogKiAqICoKKiAwIDAgMCAwIDAgMCAwIDwvUGFyYW1ldGVycz4KICAgICAgICA8L1ByZXNldERhdGE+CiAgICA8L1ByZXNldD4KPC9QcmVzZXRDaHVua1hNTFRyZWU+CpanWwA=]]></presetChunkData>
             </component>
           </slot>
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </busTrack>
       <busTrack automationLaneOpenState="false" id="10034" index="13" select="false" visible="true">
-        <trackParameters trackHeight="54" trackHue="-1" trackMinimized="false">
+        <trackParameters trackHeight="168" trackHue="-1" trackMinimized="false">
           <name>ocarina</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
@@ -1827,8 +1952,8 @@
         </effectsRack>
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </busTrack>
-      <masterTrack automationLaneOpenState="false" id="10000" index="15" select="true" visible="true">
-        <trackParameters trackHeight="54" trackHue="-1" trackMinimized="false">
+      <masterTrack automationLaneOpenState="false" id="10000" index="15" select="false" visible="true">
+        <trackParameters trackHeight="168" trackHue="-1" trackMinimized="false">
           <name>主</name>
         </trackParameters>
         <trackAudioParameters audioChannelType="stereo" automationMode="1" monitoring="false" recordArmed="false" solo="false" soloSafe="true">
@@ -1930,9 +2055,9 @@
         <editParameter parameterIndex="0" slotIndex="4294967280"/>
       </masterTrack>
     </tracks>
-    <sessionState ctiPosition="8138381" smpteStart="0">
-      <selectionState selectionDuration="0" selectionStart="8138381"/>
-      <viewState horizontalViewDuration="13671342" horizontalViewStart="0" trackControlsWidth="224" verticalScrollOffset="-191"/>
+    <sessionState ctiPosition="8063176" smpteStart="0">
+      <selectionState selectionDuration="0" selectionStart="8063176"/>
+      <viewState horizontalViewDuration="1396362" horizontalViewStart="7270868" trackControlsWidth="225" verticalScrollOffset="0"/>
       <timeFormatState beatsPerBar="2" beatsPerMinute="140" customFrameRate="12" linkToDefaultTimeSettings="true" noteLength="4" subdivisions="16" timeCodeDropFrame="false" timeCodeFrameRate="12" timeCodeNTSC="false" timeFormat="timeFormatBarsAndBeats"/>
       <mixingOptionState defaultPanModeLogarithmic="false" panPower="-3" playOverlappingClips="false"/>
     </sessionState>
@@ -1948,9 +2073,9 @@
             xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/">
          <xmp:CreatorTool>Adobe Audition 13.0 (Windows)</xmp:CreatorTool>
          <xmp:CreateDate>2020-09-26T16:10:31-07:00</xmp:CreateDate>
-         <xmp:MetadataDate>2020-10-10T00:49:52-07:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2020-10-10T00:49:52-07:00</xmp:ModifyDate>
-         <xmpMM:InstanceID>xmp.iid:7e34d96a-3cb5-0240-b154-99bf9e97b3d7</xmpMM:InstanceID>
+         <xmp:MetadataDate>2020-10-10T12:01:40-07:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2020-10-10T12:01:40-07:00</xmp:ModifyDate>
+         <xmpMM:InstanceID>xmp.iid:5188c6a9-f3e4-3d41-989c-3b98ece3ca52</xmpMM:InstanceID>
          <xmpMM:DocumentID>xmp.did:d7e0d021-d313-0b4f-9afd-e6d9187279e7</xmpMM:DocumentID>
          <xmpMM:OriginalDocumentID>xmp.did:d7e0d021-d313-0b4f-9afd-e6d9187279e7</xmpMM:OriginalDocumentID>
          <xmpMM:History>
@@ -2984,6 +3109,202 @@
                   <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
                   <stEvt:changed>/</stEvt:changed>
                </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:6d64459f-93e7-f74f-ac0c-6d5518eadf6a</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:42:10-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:66b3cdea-c36d-cc45-8544-7bc165441e52</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:42:10-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0851d6a6-4980-3948-8a73-2c67bb23e55b</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:45:09-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:e0ed853b-48bd-3c4a-a549-3100d74d2f75</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:45:09-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:9c691a03-f7ce-fd47-9f56-8de3dc0fd8de</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:46:52-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ae7a8256-8ac3-9f4a-bf81-ee8217fae8d1</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:46:52-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:28be1ecc-e853-a640-9528-66dce6e153ab</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:49:59-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:85f52aa2-e601-3d4b-b1cd-83b3cfa11d14</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:49:59-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:674169e6-bede-f448-8fb0-f8679a327caa</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:50:09-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:1c99cdd2-e69e-054a-a6a6-67e8ac4a7d0d</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:50:09-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:c40e0806-0487-cc41-b8cc-ef194222d0b8</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:50:16-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3a2728bf-5515-1c47-92a1-a5144d2cf117</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:50:16-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:84465a0f-a976-024c-9451-6cab971aa7fc</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:52:12-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:58db8a39-118a-964f-bec5-a2bbb100f86e</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:52:12-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:9d095091-7ed2-f84e-9cf7-3f8591e868d7</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:53:49-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:10c3dc92-5d99-9946-aa05-8b4f1b1cdf58</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:53:49-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:c3bc36d3-8a2e-294d-a63a-e74fe0b76465</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:54:14-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:92747d65-f6df-8b41-82b2-6bf63e5acc74</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:54:14-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0add07ec-401e-ea44-9569-00dd79b92d12</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:54:22-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:e7de5791-3a66-7247-bae9-1a34cd2dc95b</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:54:22-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:925e2522-ead3-ff4c-bb62-dae7e05d5a33</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:56:17-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:df3a0144-0f7f-6e43-9e78-34ed6b0c0fe9</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:56:17-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:60aea522-1cbe-334b-9043-0a390ab94009</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:56:27-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ebace19a-68d7-db4d-b846-8441d5e996b6</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T11:56:27-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:45ffa425-aaa9-ed48-814e-550da1e0e1ff</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T12:01:25-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:5886ceff-680c-c64a-b188-4fc40ebd23ad</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T12:01:25-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:bc8dae64-34b0-0a49-a006-9a06f4a2dddc</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T12:01:40-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:5188c6a9-f3e4-3d41-989c-3b98ece3ca52</stEvt:instanceID>
+                  <stEvt:when>2020-10-10T12:01:40-07:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe Audition 13.0 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
             </rdf:Seq>
          </xmpMM:History>
          <dc:format>application/xml</dc:format>
@@ -2992,7 +3313,7 @@
             <rdf:Seq>
                <rdf:li rdf:parseType="Resource">
                   <AEScart:Usage>EOD </AEScart:Usage>
-                  <AEScart:Value>4253538</AEScart:Value>
+                  <AEScart:Value>8122132</AEScart:Value>
                </rdf:li>
                <rdf:li rdf:parseType="Resource">
                   <AEScart:Usage/>
@@ -3033,30 +3354,342 @@
                   <xmpDM:markers>
                      <rdf:Seq>
                         <rdf:li rdf:parseType="Resource">
-                           <xmpDM:startTime>1483224</xmpDM:startTime>
-                           <xmpDM:name>标记 02</xmpDM:name>
+                           <xmpDM:startTime>41143</xmpDM:startTime>
+                           <xmpDM:name>0</xmpDM:name>
                            <xmpDM:cuePointParams>
                               <rdf:Seq>
                                  <rdf:li rdf:parseType="Resource">
                                     <xmpDM:key>marker_guid</xmpDM:key>
-                                    <xmpDM:value>xmp:id:34246fe0-acbd-1342-a25e-537bfa148ca5</xmpDM:value>
+                                    <xmpDM:value>xmp:id:bb3c0ae8-1905-be45-8f7b-55eabc2e7acf</xmpDM:value>
                                  </rdf:li>
                               </rdf:Seq>
                            </xmpDM:cuePointParams>
-                           <xmpDM:guid>xmp:id:34246fe0-acbd-1342-a25e-537bfa148ca5</xmpDM:guid>
+                           <xmpDM:guid>xmp:id:bb3c0ae8-1905-be45-8f7b-55eabc2e7acf</xmpDM:guid>
                         </rdf:li>
                         <rdf:li rdf:parseType="Resource">
-                           <xmpDM:startTime>2797703</xmpDM:startTime>
-                           <xmpDM:name>标记 01</xmpDM:name>
+                           <xmpDM:startTime>164571</xmpDM:startTime>
+                           <xmpDM:name>A11</xmpDM:name>
                            <xmpDM:cuePointParams>
                               <rdf:Seq>
                                  <rdf:li rdf:parseType="Resource">
                                     <xmpDM:key>marker_guid</xmpDM:key>
-                                    <xmpDM:value>xmp:id:7dfd0202-62b1-0248-9e6d-38f635d59b2f</xmpDM:value>
+                                    <xmpDM:value>xmp:id:8acdf9b1-28cb-984e-9e7c-aa137d83574e</xmpDM:value>
                                  </rdf:li>
                               </rdf:Seq>
                            </xmpDM:cuePointParams>
-                           <xmpDM:guid>xmp:id:7dfd0202-62b1-0248-9e6d-38f635d59b2f</xmpDM:guid>
+                           <xmpDM:guid>xmp:id:8acdf9b1-28cb-984e-9e7c-aa137d83574e</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>493714</xmpDM:startTime>
+                           <xmpDM:name>A12</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:81553d69-3977-9b4f-a7b3-607f2f61503b</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:81553d69-3977-9b4f-a7b3-607f2f61503b</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>821039</xmpDM:startTime>
+                           <xmpDM:name>B21</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:0859bb57-63ff-2a44-9ddc-e7c45f2350ab</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:0859bb57-63ff-2a44-9ddc-e7c45f2350ab</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>1150246</xmpDM:startTime>
+                           <xmpDM:name>B22</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:95b1375b-d1fa-9743-99ca-d4252425ad71</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:95b1375b-d1fa-9743-99ca-d4252425ad71</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>1478308</xmpDM:startTime>
+                           <xmpDM:name>SOLO1</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:f5c260c6-3fbb-414e-9e55-500abe84b397</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:f5c260c6-3fbb-414e-9e55-500abe84b397</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>1808100</xmpDM:startTime>
+                           <xmpDM:name>S1A2</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:226c9b22-f2be-2e48-b0fe-dbb65c663e38</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:226c9b22-f2be-2e48-b0fe-dbb65c663e38</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>2136857</xmpDM:startTime>
+                           <xmpDM:name>S1B1</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:54548791-ed9d-b54e-9cf7-8c4b7fca52b4</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:54548791-ed9d-b54e-9cf7-8c4b7fca52b4</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>2468975</xmpDM:startTime>
+                           <xmpDM:name>S1B2</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:0bb7f8c0-e827-fd45-8ebb-778994c18715</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:0bb7f8c0-e827-fd45-8ebb-778994c18715</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>2796147</xmpDM:startTime>
+                           <xmpDM:name>SOLO2</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:9f6bfe2d-3dac-734c-8fe3-9f85ef77d015</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:9f6bfe2d-3dac-734c-8fe3-9f85ef77d015</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>3125432</xmpDM:startTime>
+                           <xmpDM:name>S2A2</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:385bb777-e76e-1346-b7a3-3450d42f9822</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:385bb777-e76e-1346-b7a3-3450d42f9822</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>3452742</xmpDM:startTime>
+                           <xmpDM:name>S2B1</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:cfdb2431-dd83-a746-9761-bba87bf9c5f1</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:cfdb2431-dd83-a746-9761-bba87bf9c5f1</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>3785376</xmpDM:startTime>
+                           <xmpDM:name>S2B2</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:b8d3868a-35e6-f545-9725-27fecf8fe5b5</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:b8d3868a-35e6-f545-9725-27fecf8fe5b5</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>4111923</xmpDM:startTime>
+                           <xmpDM:name>SOLO3</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:8c5216e6-a20a-b141-8086-36088da91f93</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:8c5216e6-a20a-b141-8086-36088da91f93</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>4440928</xmpDM:startTime>
+                           <xmpDM:name>S3A2</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:002cde83-8a52-7344-8bdf-4ddd52a87d72</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:002cde83-8a52-7344-8bdf-4ddd52a87d72</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>4769846</xmpDM:startTime>
+                           <xmpDM:name>S3B1</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:bc33de03-d91f-d649-ba91-f4f6dfb51f90</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:bc33de03-d91f-d649-ba91-f4f6dfb51f90</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>5102902</xmpDM:startTime>
+                           <xmpDM:name>S3B2</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:7f8e2e71-afb5-2c40-856d-30af9ecb80f1</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:7f8e2e71-afb5-2c40-856d-30af9ecb80f1</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>5430786</xmpDM:startTime>
+                           <xmpDM:name>SOLO4</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:b1b9bc14-83f9-3d4f-9348-eb24ae1a38f3</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:b1b9bc14-83f9-3d4f-9348-eb24ae1a38f3</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>5759189</xmpDM:startTime>
+                           <xmpDM:name>S4A2</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:44ec5a44-8793-2044-aa71-6d0ee98edec1</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:44ec5a44-8793-2044-aa71-6d0ee98edec1</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>6086039</xmpDM:startTime>
+                           <xmpDM:name>S4B1</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:28106e30-c050-6d43-b749-773d938a99b5</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:28106e30-c050-6d43-b749-773d938a99b5</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>6419096</xmpDM:startTime>
+                           <xmpDM:name>S4B2</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:0da80fdb-a87b-9a4f-bbf1-8ca7127fcfcd</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:0da80fdb-a87b-9a4f-bbf1-8ca7127fcfcd</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>6746980</xmpDM:startTime>
+                           <xmpDM:name>A21</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:cd859d46-bde4-1943-b170-32e9f430721f</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:cd859d46-bde4-1943-b170-32e9f430721f</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>7076417</xmpDM:startTime>
+                           <xmpDM:name>A22</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:1ad98d13-c80b-d744-96f4-50fb36f895a7</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:1ad98d13-c80b-d744-96f4-50fb36f895a7</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>7405336</xmpDM:startTime>
+                           <xmpDM:name>B21</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:37ab1cf0-1d78-4848-84be-65649a69939b</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:37ab1cf0-1d78-4848-84be-65649a69939b</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>7734257</xmpDM:startTime>
+                           <xmpDM:name>B22</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:4d6dc094-819d-a948-9874-07cc819e8daf</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:4d6dc094-819d-a948-9874-07cc819e8daf</xmpDM:guid>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <xmpDM:startTime>8063176</xmpDM:startTime>
+                           <xmpDM:name>C</xmpDM:name>
+                           <xmpDM:cuePointParams>
+                              <rdf:Seq>
+                                 <rdf:li rdf:parseType="Resource">
+                                    <xmpDM:key>marker_guid</xmpDM:key>
+                                    <xmpDM:value>xmp:id:cb20e08c-2c62-a24d-8141-b25386ce22a1</xmpDM:value>
+                                 </rdf:li>
+                              </rdf:Seq>
+                           </xmpDM:cuePointParams>
+                           <xmpDM:guid>xmp:id:cb20e08c-2c62-a24d-8141-b25386ce22a1</xmpDM:guid>
                         </rdf:li>
                      </rdf:Seq>
                   </xmpDM:markers>
